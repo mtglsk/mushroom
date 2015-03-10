@@ -1,5 +1,7 @@
 A dark, colorful and subdued colorscheme.
 
+![Screenshot](screenshot.png?raw=true "Optional Title")
+
 Inspired by: Tommorow-Night, Desert, Distinguished, Vividchalk
 
 Installation:
