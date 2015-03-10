@@ -1,4 +1,4 @@
-## A dark, colorful and subdued colorscheme.
+## A dark, colourful and subdued colorscheme.
 
 ![Screenshot](screenshot.png?raw=true "Optional Title")
 
