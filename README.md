@@ -5,8 +5,8 @@
 Inspired by the great Tommorow colorschemes.
 
 Installation:
-Recommended to use vim-plug and to add this to your `vim.rc`
+Recommended to use vim-plug and to add this to your `.vimrc`
 
-    Plug 'mtglsk/mushroom
+    Plug 'mtglsk/mushroom'
 
 License: GNU GPL v2
